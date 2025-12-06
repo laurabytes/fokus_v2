@@ -1,5 +1,5 @@
 
-Aluno: Laura Fagundes
+
 Fokus - Um Timer Pomodoro
 Esse repositório contém o projeto Fokus, um aplicativo móvel desenvolvido com React Native e Expo. O objetivo principal é otimizar a produtividade do usuário, utilizando a técnica Pomodoro.
 
@@ -14,4 +14,7 @@ O aplicativo oferece as seguintes funcionalidades principais:
 
 4. Navegação: O aplicativo utiliza Expo Router com um menu de navegação do tipo Drawer (Gaveta).
 
+   Aluno: Laura Fagundes
+
    
+
