@@ -1,16 +1,17 @@
-# NOMECLATURA (CASE):
-1. `JAVA`
-Apenas uma classe por arquivo. E o nome da classe é o mesmo nome do arquivo, em [PascalCase]. Ex: Arquivo `Usuario`.java, classe `Usuario`.
 
-2. `Python`
-Posso ter várias classes dentro de um arquivo.E o nome do arquivo não precisa ser o nome da classe. Ex: Arquivo `veiculo.py`, classe `Carro`, `Veiculo`, `Caminhao`.
-snake_case, nome_do_usuario.
+Aluno: Laura Fagundes
+Fokus - Um Timer Pomodoro
+Esse repositório contém o projeto Fokus, um aplicativo móvel desenvolvido com React Native e Expo. O objetivo principal é otimizar a produtividade do usuário, utilizando a técnica Pomodoro.
 
-3. JSX -> Javascript + XML
-Uma function tem o case [dadosUsuarios][cammelCase].
-Quando você tem uma function que também é um componente, você irá utilizar o [Login][PascalCase] e por boas práticas, o nome do arquivo será o mesmo nome do componente mas utilizando o padrão snake_case.
+💻 Recursos do Projeto
+O aplicativo oferece as seguintes funcionalidades principais:
 
-snake_case => dados_usuarios
-cammelCase => dadosUsuarios
-PascalCase => DadosUsuarios
-kebab-case => dados-usuarios
+1. Timer Pomodoro Personalizado: Inclui três modos de tempo predefinidos: Foco (25 minutos), Pausa Curta (5 minutos) e Pausa Longa (15 minutos). O timer pode ser iniciado, pausado e reiniciado.
+
+2. Lista de Tarefas: Uma página dedicada para o usuário listar, visualizar, adicionar e gerenciar tarefas, com opções de marcar como concluída, editar e excluir.
+
+3. Buscador de CEP: Uma utilidade para buscar endereços usando o CEP, integrando-se à API ViaCEP.
+
+4. Navegação: O aplicativo utiliza Expo Router com um menu de navegação do tipo Drawer (Gaveta).
+
+   
